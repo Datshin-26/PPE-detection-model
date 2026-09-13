@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+database/*.db
+models/*.pt
+!models/.gitkeep
+dataset/*
+!dataset/.gitkeep
+runs/
+.streamlit/secrets.toml
+yolov8n.pt
+desktop.ini
